@@ -1,0 +1,531 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="ja" unique-identifier="unique-id" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ ebpaj: http://www.ebpaj.jp/ fixed-layout-jp: http://www.digital-comic.jp/ calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">時々ボソッとロシア語でデレる隣のアーリャさん（５）</dc:title>
+    <dc:creator id="id-1">手名町紗帆</dc:creator>
+    <dc:creator id="id-2">燦々ｓｕｎ</dc:creator>
+    <dc:creator id="id-3">ももこ</dc:creator>
+    <dc:identifier>amazon_jp:B0DB72HVXM</dc:identifier>
+    <dc:identifier>calibre:1163</dc:identifier>
+    <dc:identifier>uuid:a9d6f1d9-688b-4dbe-9944-0e08c3c205d2</dc:identifier>
+    <dc:identifier id="unique-id">urn:jdcn:06A0000000000808244B</dc:identifier>
+    <dc:language>ja</dc:language>
+    <dc:contributor id="id">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2024-08-06T13:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;「И на меня тоже обрати внимание」隣の席に座る絶世の銀髪美少女、アーリャさんは時々ロシア語を話す。本人は俺を罵倒していると言うのだが…事実は違う！ さっきのロシア語、彼女は「私のことかまってよ」と言っていたのだ！ 実は俺、久世政近のロシア語リスニングはネイティブレベル。そうとは知らず、今日も甘々なロシア語でデレてくるアーリャさん！ 全校生徒憧れの的、超ハイスペックなロシアンJKとの青春ラブコメディ♪ &lt;/p&gt;
+&lt;p&gt;“孤高のお姫様”と称される銀髪美少女・アーリャ。完璧に見える彼女は時にロシア語で甘い一言を呟く。そして、それは隣の席の久世政近に全部バレている！ アーリャを次期生徒会長に推すため、政近は生徒会に入ることを決めた。生徒会長の大本命は政近の実妹・有希。認めているから負けたくない、アーリャと有希の生徒会長を巡る戦いがはじまる――！ 一途な想いに心打たれるロシアンJKとの青春ラブコメ！！&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>講談社</dc:publisher>
+    <!-- 作品名 -->
+    <meta refines="#title" property="title-type">main</meta>
+    <meta refines="#title" property="file-as">時々ボソッとロシア語でデレる隣のアーリャさん（５）</meta>
+    <!-- 著者名 -->
+    <!-- 出版社名 -->
+    <!-- 言語 -->
+    <!-- ファイルid -->
+    <!-- 更新日 -->
+    <meta property="dcterms:modified">2024-08-01T00:00:00Z</meta>
+    <!-- Fixed-Layout Documents指定 -->
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="rendition:spread">landscape</meta>
+    <!-- etc. -->
+    <meta property="ebpaj:guide-version">1.1</meta>
+    <meta property="ibooks:binding">false</meta>
+    <meta name="fixed-layout" content="true"/>
+    <meta name="orientation-lock" content="none"/>
+    <meta name="original-resolution" content="1070x1600"/>
+    <meta name="book-type" content="comic"/>
+    <meta name="primary-writing-mode" content="horizontal-rl"/>
+    <meta name="SpineColor" content="#FFFFFF"/>
+    <meta name="cover" content="cover"/>
+    <meta refines="#id" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">手名町紗帆</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-2" property="file-as">燦々ｓｕｎ</meta>
+    <meta refines="#id-3" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-3" property="file-as">ももこ</meta>
+    <meta property="calibre:rating">8</meta>
+    <meta property="belongs-to-collection" id="id-4">時々ボソッとロシア語でデレる隣のアーリャさん</meta>
+    <meta refines="#id-4" property="collection-type">series</meta>
+    <meta refines="#id-4" property="group-position">5</meta>
+  </metadata>
+  <manifest>
+    <!-- navigation -->
+    <item media-type="application/xhtml+xml" id="toc" href="navigation-documents.xhtml" properties="nav"/>
+    <!-- style -->
+    <item media-type="text/css" id="fixed-layout-jp" href="style/fixed-layout-jp.css"/>
+    <!-- image -->
+    <item id="cover" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="i-0000" href="image/0000.jpg" media-type="image/jpeg"/>
+    <item id="i-0001" href="image/0001.jpg" media-type="image/jpeg"/>
+    <item id="i-0002" href="image/0002.jpg" media-type="image/jpeg"/>
+    <item id="i-0003" href="image/0003.jpg" media-type="image/jpeg"/>
+    <item id="i-0004" href="image/0004.jpg" media-type="image/jpeg"/>
+    <item id="i-0005" href="image/0005.jpg" media-type="image/jpeg"/>
+    <item id="i-0006" href="image/0006.jpg" media-type="image/jpeg"/>
+    <item id="i-0007" href="image/0007.jpg" media-type="image/jpeg"/>
+    <item id="i-0008" href="image/0008.jpg" media-type="image/jpeg"/>
+    <item id="i-0009" href="image/0009.jpg" media-type="image/jpeg"/>
+    <item id="i-0010" href="image/0010.jpg" media-type="image/jpeg"/>
+    <item id="i-0011" href="image/0011.jpg" media-type="image/jpeg"/>
+    <item id="i-0012" href="image/0012.jpg" media-type="image/jpeg"/>
+    <item id="i-0013" href="image/0013.jpg" media-type="image/jpeg"/>
+    <item id="i-0014" href="image/0014.jpg" media-type="image/jpeg"/>
+    <item id="i-0015" href="image/0015.jpg" media-type="image/jpeg"/>
+    <item id="i-0016" href="image/0016.jpg" media-type="image/jpeg"/>
+    <item id="i-0017" href="image/0017.jpg" media-type="image/jpeg"/>
+    <item id="i-0018" href="image/0018.jpg" media-type="image/jpeg"/>
+    <item id="i-0019" href="image/0019.jpg" media-type="image/jpeg"/>
+    <item id="i-0020" href="image/0020.jpg" media-type="image/jpeg"/>
+    <item id="i-0021" href="image/0021.jpg" media-type="image/jpeg"/>
+    <item id="i-0022" href="image/0022.jpg" media-type="image/jpeg"/>
+    <item id="i-0023" href="image/0023.jpg" media-type="image/jpeg"/>
+    <item id="i-0024" href="image/0024.jpg" media-type="image/jpeg"/>
+    <item id="i-0025" href="image/0025.jpg" media-type="image/jpeg"/>
+    <item id="i-0026" href="image/0026.jpg" media-type="image/jpeg"/>
+    <item id="i-0027" href="image/0027.jpg" media-type="image/jpeg"/>
+    <item id="i-0028" href="image/0028.jpg" media-type="image/jpeg"/>
+    <item id="i-0029" href="image/0029.jpg" media-type="image/jpeg"/>
+    <item id="i-0030" href="image/0030.jpg" media-type="image/jpeg"/>
+    <item id="i-0031" href="image/0031.jpg" media-type="image/jpeg"/>
+    <item id="i-0032" href="image/0032.jpg" media-type="image/jpeg"/>
+    <item id="i-0033" href="image/0033.jpg" media-type="image/jpeg"/>
+    <item id="i-0034" href="image/0034.jpg" media-type="image/jpeg"/>
+    <item id="i-0035" href="image/0035.jpg" media-type="image/jpeg"/>
+    <item id="i-0036" href="image/0036.jpg" media-type="image/jpeg"/>
+    <item id="i-0037" href="image/0037.jpg" media-type="image/jpeg"/>
+    <item id="i-0038" href="image/0038.jpg" media-type="image/jpeg"/>
+    <item id="i-0039" href="image/0039.jpg" media-type="image/jpeg"/>
+    <item id="i-0040" href="image/0040.jpg" media-type="image/jpeg"/>
+    <item id="i-0041" href="image/0041.jpg" media-type="image/jpeg"/>
+    <item id="i-0042" href="image/0042.jpg" media-type="image/jpeg"/>
+    <item id="i-0043" href="image/0043.jpg" media-type="image/jpeg"/>
+    <item id="i-0044" href="image/0044.jpg" media-type="image/jpeg"/>
+    <item id="i-0045" href="image/0045.jpg" media-type="image/jpeg"/>
+    <item id="i-0046" href="image/0046.jpg" media-type="image/jpeg"/>
+    <item id="i-0047" href="image/0047.jpg" media-type="image/jpeg"/>
+    <item id="i-0048" href="image/0048.jpg" media-type="image/jpeg"/>
+    <item id="i-0049" href="image/0049.jpg" media-type="image/jpeg"/>
+    <item id="i-0050" href="image/0050.jpg" media-type="image/jpeg"/>
+    <item id="i-0051" href="image/0051.jpg" media-type="image/jpeg"/>
+    <item id="i-0052" href="image/0052.jpg" media-type="image/jpeg"/>
+    <item id="i-0053" href="image/0053.jpg" media-type="image/jpeg"/>
+    <item id="i-0054" href="image/0054.jpg" media-type="image/jpeg"/>
+    <item id="i-0055" href="image/0055.jpg" media-type="image/jpeg"/>
+    <item id="i-0056" href="image/0056.jpg" media-type="image/jpeg"/>
+    <item id="i-0057" href="image/0057.jpg" media-type="image/jpeg"/>
+    <item id="i-0058" href="image/0058.jpg" media-type="image/jpeg"/>
+    <item id="i-0059" href="image/0059.jpg" media-type="image/jpeg"/>
+    <item id="i-0060" href="image/0060.jpg" media-type="image/jpeg"/>
+    <item id="i-0061" href="image/0061.jpg" media-type="image/jpeg"/>
+    <item id="i-0062" href="image/0062.jpg" media-type="image/jpeg"/>
+    <item id="i-0063" href="image/0063.jpg" media-type="image/jpeg"/>
+    <item id="i-0064" href="image/0064.jpg" media-type="image/jpeg"/>
+    <item id="i-0065" href="image/0065.jpg" media-type="image/jpeg"/>
+    <item id="i-0066" href="image/0066.jpg" media-type="image/jpeg"/>
+    <item id="i-0067" href="image/0067.jpg" media-type="image/jpeg"/>
+    <item id="i-0068" href="image/0068.jpg" media-type="image/jpeg"/>
+    <item id="i-0069" href="image/0069.jpg" media-type="image/jpeg"/>
+    <item id="i-0070" href="image/0070.jpg" media-type="image/jpeg"/>
+    <item id="i-0071" href="image/0071.jpg" media-type="image/jpeg"/>
+    <item id="i-0072" href="image/0072.jpg" media-type="image/jpeg"/>
+    <item id="i-0073" href="image/0073.jpg" media-type="image/jpeg"/>
+    <item id="i-0074" href="image/0074.jpg" media-type="image/jpeg"/>
+    <item id="i-0075" href="image/0075.jpg" media-type="image/jpeg"/>
+    <item id="i-0076" href="image/0076.jpg" media-type="image/jpeg"/>
+    <item id="i-0077" href="image/0077.jpg" media-type="image/jpeg"/>
+    <item id="i-0078" href="image/0078.jpg" media-type="image/jpeg"/>
+    <item id="i-0079" href="image/0079.jpg" media-type="image/jpeg"/>
+    <item id="i-0080" href="image/0080.jpg" media-type="image/jpeg"/>
+    <item id="i-0081" href="image/0081.jpg" media-type="image/jpeg"/>
+    <item id="i-0082" href="image/0082.jpg" media-type="image/jpeg"/>
+    <item id="i-0083" href="image/0083.jpg" media-type="image/jpeg"/>
+    <item id="i-0084" href="image/0084.jpg" media-type="image/jpeg"/>
+    <item id="i-0085" href="image/0085.jpg" media-type="image/jpeg"/>
+    <item id="i-0086" href="image/0086.jpg" media-type="image/jpeg"/>
+    <item id="i-0087" href="image/0087.jpg" media-type="image/jpeg"/>
+    <item id="i-0088" href="image/0088.jpg" media-type="image/jpeg"/>
+    <item id="i-0089" href="image/0089.jpg" media-type="image/jpeg"/>
+    <item id="i-0090" href="image/0090.jpg" media-type="image/jpeg"/>
+    <item id="i-0091" href="image/0091.jpg" media-type="image/jpeg"/>
+    <item id="i-0092" href="image/0092.jpg" media-type="image/jpeg"/>
+    <item id="i-0093" href="image/0093.jpg" media-type="image/jpeg"/>
+    <item id="i-0094" href="image/0094.jpg" media-type="image/jpeg"/>
+    <item id="i-0095" href="image/0095.jpg" media-type="image/jpeg"/>
+    <item id="i-0096" href="image/0096.jpg" media-type="image/jpeg"/>
+    <item id="i-0097" href="image/0097.jpg" media-type="image/jpeg"/>
+    <item id="i-0098" href="image/0098.jpg" media-type="image/jpeg"/>
+    <item id="i-0099" href="image/0099.jpg" media-type="image/jpeg"/>
+    <item id="i-0100" href="image/0100.jpg" media-type="image/jpeg"/>
+    <item id="i-0101" href="image/0101.jpg" media-type="image/jpeg"/>
+    <item id="i-0102" href="image/0102.jpg" media-type="image/jpeg"/>
+    <item id="i-0103" href="image/0103.jpg" media-type="image/jpeg"/>
+    <item id="i-0104" href="image/0104.jpg" media-type="image/jpeg"/>
+    <item id="i-0105" href="image/0105.jpg" media-type="image/jpeg"/>
+    <item id="i-0106" href="image/0106.jpg" media-type="image/jpeg"/>
+    <item id="i-0107" href="image/0107.jpg" media-type="image/jpeg"/>
+    <item id="i-0108" href="image/0108.jpg" media-type="image/jpeg"/>
+    <item id="i-0109" href="image/0109.jpg" media-type="image/jpeg"/>
+    <item id="i-0110" href="image/0110.jpg" media-type="image/jpeg"/>
+    <item id="i-0111" href="image/0111.jpg" media-type="image/jpeg"/>
+    <item id="i-0112" href="image/0112.jpg" media-type="image/jpeg"/>
+    <item id="i-0113" href="image/0113.jpg" media-type="image/jpeg"/>
+    <item id="i-0114" href="image/0114.jpg" media-type="image/jpeg"/>
+    <item id="i-0115" href="image/0115.jpg" media-type="image/jpeg"/>
+    <item id="i-0116" href="image/0116.jpg" media-type="image/jpeg"/>
+    <item id="i-0117" href="image/0117.jpg" media-type="image/jpeg"/>
+    <item id="i-0118" href="image/0118.jpg" media-type="image/jpeg"/>
+    <item id="i-0119" href="image/0119.jpg" media-type="image/jpeg"/>
+    <item id="i-0120" href="image/0120.jpg" media-type="image/jpeg"/>
+    <item id="i-0121" href="image/0121.jpg" media-type="image/jpeg"/>
+    <item id="i-0122" href="image/0122.jpg" media-type="image/jpeg"/>
+    <item id="i-0123" href="image/0123.jpg" media-type="image/jpeg"/>
+    <item id="i-0124" href="image/0124.jpg" media-type="image/jpeg"/>
+    <item id="i-0125" href="image/0125.jpg" media-type="image/jpeg"/>
+    <item id="i-0126" href="image/0126.jpg" media-type="image/jpeg"/>
+    <item id="i-0127" href="image/0127.jpg" media-type="image/jpeg"/>
+    <item id="i-0128" href="image/0128.jpg" media-type="image/jpeg"/>
+    <item id="i-0129" href="image/0129.jpg" media-type="image/jpeg"/>
+    <item id="i-0130" href="image/0130.jpg" media-type="image/jpeg"/>
+    <item id="i-0131" href="image/0131.jpg" media-type="image/jpeg"/>
+    <item id="i-0132" href="image/0132.jpg" media-type="image/jpeg"/>
+    <item id="i-0133" href="image/0133.jpg" media-type="image/jpeg"/>
+    <item id="i-0134" href="image/0134.jpg" media-type="image/jpeg"/>
+    <item id="i-0135" href="image/0135.jpg" media-type="image/jpeg"/>
+    <item id="i-0136" href="image/0136.jpg" media-type="image/jpeg"/>
+    <item id="i-0137" href="image/0137.jpg" media-type="image/jpeg"/>
+    <item id="i-0138" href="image/0138.jpg" media-type="image/jpeg"/>
+    <item id="i-0139" href="image/0139.jpg" media-type="image/jpeg"/>
+    <item id="i-0140" href="image/0140.jpg" media-type="image/jpeg"/>
+    <item id="i-0141" href="image/0141.jpg" media-type="image/jpeg"/>
+    <item id="i-0142" href="image/0142.jpg" media-type="image/jpeg"/>
+    <item id="i-0143" href="image/0143.jpg" media-type="image/jpeg"/>
+    <item id="i-0144" href="image/0144.jpg" media-type="image/jpeg"/>
+    <item id="i-0145" href="image/0145.jpg" media-type="image/jpeg"/>
+    <item id="i-0146" href="image/0146.jpg" media-type="image/jpeg"/>
+    <item id="i-0147" href="image/0147.jpg" media-type="image/jpeg"/>
+    <item id="i-0148" href="image/0148.jpg" media-type="image/jpeg"/>
+    <item id="i-0149" href="image/0149.jpg" media-type="image/jpeg"/>
+    <item id="i-0150" href="image/0150.jpg" media-type="image/jpeg"/>
+    <item id="i-0151" href="image/0151.jpg" media-type="image/jpeg"/>
+    <item id="i-0152" href="image/0152.jpg" media-type="image/jpeg"/>
+    <item id="i-0153" href="image/0153.jpg" media-type="image/jpeg"/>
+    <item id="i-0154" href="image/0154.jpg" media-type="image/jpeg"/>
+    <!-- text -->
+    <item id="p-cover" href="text/p-cover.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="cover"/>
+    <item id="p-0000" href="text/p-0000.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0000"/>
+    <item id="p-0001" href="text/p-0001.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0001"/>
+    <item id="p-0002" href="text/p-0002.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0002"/>
+    <item id="p-0003" href="text/p-0003.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0003"/>
+    <item id="p-0004" href="text/p-0004.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0004"/>
+    <item id="p-0005" href="text/p-0005.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0005"/>
+    <item id="p-0006" href="text/p-0006.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0006"/>
+    <item id="p-0007" href="text/p-0007.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0007"/>
+    <item id="p-0008" href="text/p-0008.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0008"/>
+    <item id="p-0009" href="text/p-0009.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0009"/>
+    <item id="p-0010" href="text/p-0010.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0010"/>
+    <item id="p-0011" href="text/p-0011.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0011"/>
+    <item id="p-0012" href="text/p-0012.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0012"/>
+    <item id="p-0013" href="text/p-0013.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0013"/>
+    <item id="p-0014" href="text/p-0014.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0014"/>
+    <item id="p-0015" href="text/p-0015.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0015"/>
+    <item id="p-0016" href="text/p-0016.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0016"/>
+    <item id="p-0017" href="text/p-0017.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0017"/>
+    <item id="p-0018" href="text/p-0018.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0018"/>
+    <item id="p-0019" href="text/p-0019.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0019"/>
+    <item id="p-0020" href="text/p-0020.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0020"/>
+    <item id="p-0021" href="text/p-0021.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0021"/>
+    <item id="p-0022" href="text/p-0022.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0022"/>
+    <item id="p-0023" href="text/p-0023.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0023"/>
+    <item id="p-0024" href="text/p-0024.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0024"/>
+    <item id="p-0025" href="text/p-0025.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0025"/>
+    <item id="p-0026" href="text/p-0026.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0026"/>
+    <item id="p-0027" href="text/p-0027.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0027"/>
+    <item id="p-0028" href="text/p-0028.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0028"/>
+    <item id="p-0029" href="text/p-0029.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0029"/>
+    <item id="p-0030" href="text/p-0030.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0030"/>
+    <item id="p-0031" href="text/p-0031.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0031"/>
+    <item id="p-0032" href="text/p-0032.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0032"/>
+    <item id="p-0033" href="text/p-0033.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0033"/>
+    <item id="p-0034" href="text/p-0034.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0034"/>
+    <item id="p-0035" href="text/p-0035.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0035"/>
+    <item id="p-0036" href="text/p-0036.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0036"/>
+    <item id="p-0037" href="text/p-0037.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0037"/>
+    <item id="p-0038" href="text/p-0038.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0038"/>
+    <item id="p-0039" href="text/p-0039.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0039"/>
+    <item id="p-0040" href="text/p-0040.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0040"/>
+    <item id="p-0041" href="text/p-0041.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0041"/>
+    <item id="p-0042" href="text/p-0042.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0042"/>
+    <item id="p-0043" href="text/p-0043.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0043"/>
+    <item id="p-0044" href="text/p-0044.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0044"/>
+    <item id="p-0045" href="text/p-0045.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0045"/>
+    <item id="p-0046" href="text/p-0046.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0046"/>
+    <item id="p-0047" href="text/p-0047.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0047"/>
+    <item id="p-0048" href="text/p-0048.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0048"/>
+    <item id="p-0049" href="text/p-0049.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0049"/>
+    <item id="p-0050" href="text/p-0050.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0050"/>
+    <item id="p-0051" href="text/p-0051.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0051"/>
+    <item id="p-0052" href="text/p-0052.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0052"/>
+    <item id="p-0053" href="text/p-0053.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0053"/>
+    <item id="p-0054" href="text/p-0054.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0054"/>
+    <item id="p-0055" href="text/p-0055.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0055"/>
+    <item id="p-0056" href="text/p-0056.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0056"/>
+    <item id="p-0057" href="text/p-0057.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0057"/>
+    <item id="p-0058" href="text/p-0058.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0058"/>
+    <item id="p-0059" href="text/p-0059.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0059"/>
+    <item id="p-0060" href="text/p-0060.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0060"/>
+    <item id="p-0061" href="text/p-0061.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0061"/>
+    <item id="p-0062" href="text/p-0062.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0062"/>
+    <item id="p-0063" href="text/p-0063.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0063"/>
+    <item id="p-0064" href="text/p-0064.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0064"/>
+    <item id="p-0065" href="text/p-0065.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0065"/>
+    <item id="p-0066" href="text/p-0066.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0066"/>
+    <item id="p-0067" href="text/p-0067.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0067"/>
+    <item id="p-0068" href="text/p-0068.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0068"/>
+    <item id="p-0069" href="text/p-0069.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0069"/>
+    <item id="p-0070" href="text/p-0070.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0070"/>
+    <item id="p-0071" href="text/p-0071.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0071"/>
+    <item id="p-0072" href="text/p-0072.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0072"/>
+    <item id="p-0073" href="text/p-0073.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0073"/>
+    <item id="p-0074" href="text/p-0074.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0074"/>
+    <item id="p-0075" href="text/p-0075.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0075"/>
+    <item id="p-0076" href="text/p-0076.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0076"/>
+    <item id="p-0077" href="text/p-0077.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0077"/>
+    <item id="p-0078" href="text/p-0078.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0078"/>
+    <item id="p-0079" href="text/p-0079.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0079"/>
+    <item id="p-0080" href="text/p-0080.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0080"/>
+    <item id="p-0081" href="text/p-0081.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0081"/>
+    <item id="p-0082" href="text/p-0082.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0082"/>
+    <item id="p-0083" href="text/p-0083.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0083"/>
+    <item id="p-0084" href="text/p-0084.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0084"/>
+    <item id="p-0085" href="text/p-0085.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0085"/>
+    <item id="p-0086" href="text/p-0086.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0086"/>
+    <item id="p-0087" href="text/p-0087.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0087"/>
+    <item id="p-0088" href="text/p-0088.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0088"/>
+    <item id="p-0089" href="text/p-0089.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0089"/>
+    <item id="p-0090" href="text/p-0090.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0090"/>
+    <item id="p-0091" href="text/p-0091.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0091"/>
+    <item id="p-0092" href="text/p-0092.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0092"/>
+    <item id="p-0093" href="text/p-0093.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0093"/>
+    <item id="p-0094" href="text/p-0094.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0094"/>
+    <item id="p-0095" href="text/p-0095.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0095"/>
+    <item id="p-0096" href="text/p-0096.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0096"/>
+    <item id="p-0097" href="text/p-0097.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0097"/>
+    <item id="p-0098" href="text/p-0098.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0098"/>
+    <item id="p-0099" href="text/p-0099.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0099"/>
+    <item id="p-0100" href="text/p-0100.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0100"/>
+    <item id="p-0101" href="text/p-0101.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0101"/>
+    <item id="p-0102" href="text/p-0102.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0102"/>
+    <item id="p-0103" href="text/p-0103.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0103"/>
+    <item id="p-0104" href="text/p-0104.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0104"/>
+    <item id="p-0105" href="text/p-0105.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0105"/>
+    <item id="p-0106" href="text/p-0106.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0106"/>
+    <item id="p-0107" href="text/p-0107.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0107"/>
+    <item id="p-0108" href="text/p-0108.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0108"/>
+    <item id="p-0109" href="text/p-0109.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0109"/>
+    <item id="p-0110" href="text/p-0110.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0110"/>
+    <item id="p-0111" href="text/p-0111.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0111"/>
+    <item id="p-0112" href="text/p-0112.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0112"/>
+    <item id="p-0113" href="text/p-0113.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0113"/>
+    <item id="p-0114" href="text/p-0114.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0114"/>
+    <item id="p-0115" href="text/p-0115.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0115"/>
+    <item id="p-0116" href="text/p-0116.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0116"/>
+    <item id="p-0117" href="text/p-0117.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0117"/>
+    <item id="p-0118" href="text/p-0118.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0118"/>
+    <item id="p-0119" href="text/p-0119.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0119"/>
+    <item id="p-0120" href="text/p-0120.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0120"/>
+    <item id="p-0121" href="text/p-0121.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0121"/>
+    <item id="p-0122" href="text/p-0122.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0122"/>
+    <item id="p-0123" href="text/p-0123.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0123"/>
+    <item id="p-0124" href="text/p-0124.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0124"/>
+    <item id="p-0125" href="text/p-0125.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0125"/>
+    <item id="p-0126" href="text/p-0126.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0126"/>
+    <item id="p-0127" href="text/p-0127.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0127"/>
+    <item id="p-0128" href="text/p-0128.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0128"/>
+    <item id="p-0129" href="text/p-0129.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0129"/>
+    <item id="p-0130" href="text/p-0130.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0130"/>
+    <item id="p-0131" href="text/p-0131.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0131"/>
+    <item id="p-0132" href="text/p-0132.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0132"/>
+    <item id="p-0133" href="text/p-0133.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0133"/>
+    <item id="p-0134" href="text/p-0134.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0134"/>
+    <item id="p-0135" href="text/p-0135.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0135"/>
+    <item id="p-0136" href="text/p-0136.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0136"/>
+    <item id="p-0137" href="text/p-0137.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0137"/>
+    <item id="p-0138" href="text/p-0138.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0138"/>
+    <item id="p-0139" href="text/p-0139.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0139"/>
+    <item id="p-0140" href="text/p-0140.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0140"/>
+    <item id="p-0141" href="text/p-0141.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0141"/>
+    <item id="p-0142" href="text/p-0142.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0142"/>
+    <item id="p-0143" href="text/p-0143.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0143"/>
+    <item id="p-0144" href="text/p-0144.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0144"/>
+    <item id="p-0145" href="text/p-0145.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0145"/>
+    <item id="p-0146" href="text/p-0146.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0146"/>
+    <item id="p-0147" href="text/p-0147.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0147"/>
+    <item id="p-0148" href="text/p-0148.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0148"/>
+    <item id="p-0149" href="text/p-0149.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0149"/>
+    <item id="p-0150" href="text/p-0150.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0150"/>
+    <item id="p-0151" href="text/p-0151.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0151"/>
+    <item id="p-0152" href="text/p-0152.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0152"/>
+    <item id="p-0153" href="text/p-0153.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0153"/>
+    <item id="p-0154" href="text/p-0154.xhtml" media-type="application/xhtml+xml" properties="svg" fallback="i-0154"/>
+  </manifest>
+  <spine page-progression-direction="rtl">
+    <itemref linear="yes" idref="p-cover" properties="rendition:page-spread-center"/>
+    <itemref linear="yes" idref="p-0000" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0001" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0002" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0003" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0004" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0005" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0006" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0007" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0008" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0009" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0010" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0011" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0012" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0013" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0014" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0015" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0016" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0017" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0018" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0019" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0020" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0021" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0022" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0023" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0024" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0025" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0026" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0027" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0028" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0029" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0030" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0031" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0032" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0033" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0034" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0035" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0036" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0037" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0038" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0039" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0040" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0041" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0042" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0043" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0044" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0045" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0046" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0047" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0048" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0049" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0050" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0051" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0052" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0053" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0054" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0055" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0056" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0057" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0058" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0059" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0060" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0061" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0062" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0063" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0064" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0065" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0066" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0067" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0068" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0069" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0070" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0071" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0072" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0073" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0074" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0075" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0076" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0077" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0078" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0079" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0080" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0081" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0082" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0083" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0084" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0085" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0086" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0087" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0088" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0089" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0090" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0091" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0092" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0093" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0094" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0095" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0096" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0097" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0098" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0099" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0100" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0101" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0102" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0103" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0104" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0105" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0106" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0107" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0108" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0109" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0110" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0111" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0112" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0113" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0114" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0115" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0116" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0117" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0118" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0119" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0120" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0121" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0122" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0123" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0124" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0125" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0126" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0127" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0128" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0129" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0130" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0131" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0132" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0133" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0134" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0135" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0136" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0137" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0138" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0139" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0140" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0141" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0142" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0143" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0144" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0145" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0146" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0147" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0148" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0149" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0150" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0151" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0152" properties="page-spread-right"/>
+    <itemref linear="yes" idref="p-0153" properties="page-spread-left"/>
+    <itemref linear="yes" idref="p-0154" properties="page-spread-right"/>
+  </spine>
+</package>
