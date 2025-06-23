@@ -17,13 +17,19 @@
     "deredere"
   ],
   "language": "",
-  "updated_at": "2025-06-23T07:55:19.642Z",
+  "updated_at": "2025-06-23T08:24:24.998Z",
   "covers": [
     {
       "name": "cover_1750665319642.jpg",
       "url": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750665319642.jpg",
       "uploaded_at": "2025-06-23T07:55:20.753Z",
       "primary": true
+    },
+    {
+      "name": "cover_1750667064998.jpg",
+      "url": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750667064998.jpg",
+      "uploaded_at": "2025-06-23T08:24:26.443Z",
+      "primary": false
     }
   ],
   "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750665319642.jpg"
