@@ -15,5 +15,16 @@
     "school life",
     "childhood friends",
     "deredere"
-  ]
+  ],
+  "language": "",
+  "updated_at": "2025-06-23T07:55:19.642Z",
+  "covers": [
+    {
+      "name": "cover_1750665319642.jpg",
+      "url": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750665319642.jpg",
+      "uploaded_at": "2025-06-23T07:55:20.753Z",
+      "primary": true
+    }
+  ],
+  "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750665319642.jpg"
 }
