@@ -1,12 +1,18 @@
 {
   "title": "[ARTBOOK] Roshidere ",
   "alternative_title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san ",
-  "type": "ARTBOOK",
+  "type": "Artbook",
   "concept": "light",
   "website": "https://pixiv-waengallery.com/catalog_goods/64038/",
   "author": "ももこ,   燦々SUN",
-  "status": "Complite",
-  "age_restrict": "17",
-  "description": "Alya Si Tetangga yang Kadang Berbisik Mesra dalam Bahasa Rusia \r\nPenerbit: KADOKAWA\r\nTanggal Rilis: Jumat, 28 Juni 2024\r\nJumlah Halaman: 132 halaman\r\nISBN-10: 4041148324\r\nISBN-13: 978-4041148327\r\nDimensi Buku: 21.2 cm × 1.3 cm × 29.8 cm",
-  "genres": []
+  "status": "completed",
+  "age_restrict": "16+",
+  "description": "Sebuah buku seni karya ilustrator populer Momoko dari novel ringan \"Roshidere\" sekarang tersedia!\r\nTidak hanya ilustrasi yang termasuk dalam paperback, tetapi juga ilustrasi peringatan dari adaptasi anime juga disertakan, dan ada juga ilustrasi pin-up yang baru digambar! Semua yang ada di \"Rossidere\" dalam buku yang satu ini!\r\nPenerbit: KADOKAWA\r\nTanggal Rilis: Jumat, 28 Juni 2024\r\nJumlah Halaman: 132 halaman\r\nISBN-10: 4041148324\r\nISBN-13: 978-4041148327\r\nISBN: 978-4-04-114832-7\r\nFormat Produk: Buku umum (General Book)\r\nUkuran: A4\r\nDimensi Produk (lebar × tinggi × tebal): 210 × 297 × 12.5 mm",
+  "genres": [
+    "alya mikhailovna",
+    "yuki suou"
+  ],
+  "language": "",
+  "coverOrder": "[\"cover_listing\"]",
+  "updated_at": "2025-06-24T08:05:25.713Z"
 }
