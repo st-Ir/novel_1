@@ -11,6 +11,6 @@
   "genres": [],
   "language": "",
   "updated_at": "2025-06-24T05:42:51.346Z",
-  "covers": "[{\"name\":\"cover_1750665319642.jpg\",\"url\":\"https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750665319642.jpg\",\"uploaded_at\":\"2025-06-23T07:55:20.753Z\",\"primary\":false,\"order\":0},{\"name\":\"cover_1750667064998.jpg\",\"url\":\"https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750667064998.jpg\",\"uploaded_at\":\"2025-06-23T08:24:26.443Z\",\"primary\":false,\"order\":1},{\"name\":\"cover_1750698994499.jpg\",\"url\":\"https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750698994499.jpg\",\"uploaded_at\":\"2025-06-23T17:16:37.403Z\",\"primary\":true,\"order\":2}]",
-  "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750698994499.jpg"
+  "covers": "",
+  "cover": "",
 }
