@@ -18,7 +18,7 @@
     "love triangle"
   ],
   "language": "",
-  "updated_at": "2025-06-24T06:46:52.662Z",
+  "updated_at": "2025-06-24T07:16:46.705Z",
   "covers": [
     {
       "name": "cover_1750747612662.jpg",
@@ -27,5 +27,6 @@
       "primary": true
     }
   ],
-  "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750747612662.jpg"
+  "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750747612662.jpg",
+  "coverOrder": "[\"cover_1750747612662.jpg\"]"
 }
