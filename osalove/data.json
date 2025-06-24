@@ -24,6 +24,12 @@
       "url": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750746283902.jpg",
       "uploaded_at": "2025-06-24T06:24:45.177Z",
       "primary": true
+    },
+    {
+      "name": "cover_1750746515292.jpg" 
+      "url": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750746515292.jpg"
+      "uploaded_at": "2025-06-24T06:23:45.177Z",
+      "primary": false
     }
   ],
   "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750746283902.jpg"
