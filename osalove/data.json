@@ -24,15 +24,15 @@
       "name": "cover_1750747612662.jpg",
       "url": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750747612662.jpg",
       "uploaded_at": "2025-06-24T06:46:53.888Z",
-      "primary": true
+      "primary": false
     },
     {
       "name": "cover_1750750073372.jpg",
       "url": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750750073372.jpg",
       "uploaded_at": "2025-06-24T07:27:54.741Z",
-      "primary": false
+      "primary": true
     }
   ],
-  "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750747612662.jpg",
+  "cover": "https://raw.githubusercontent.com/st-Ir/novel_1/main/osalove/cover_1750750073372.jpg",
   "coverOrder": "[\"cover_1750747612662.jpg\"]"
 }
