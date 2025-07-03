@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head><meta name="dtb:uid" content="04680326A10005400000"/></head>
+    <docTitle><text>義妹生活２【電子特典付き】</text></docTitle>
+    <navMap>
+        <navPoint>
+            <navLabel><text>表紙</text></navLabel>
+            <content src="xhtml/p-cover.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Contents</text></navLabel>
+            <content src="xhtml/p-toc-002.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>プロローグ</text></navLabel>
+            <content src="xhtml/p-003.xhtml#id-a001"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>７月16日（木曜日）</text></navLabel>
+            <content src="xhtml/p-004.xhtml#id-a002"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>７月17日（金曜日）</text></navLabel>
+            <content src="xhtml/p-005.xhtml#id-a003"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>７月18日（土曜日）</text></navLabel>
+            <content src="xhtml/p-006.xhtml#id-a004"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>７月19日（日曜日）</text></navLabel>
+            <content src="xhtml/p-007.xhtml#id-a005"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>７月20日（月曜日）</text></navLabel>
+            <content src="xhtml/p-008.xhtml#id-a006"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>７月21日（火曜日）</text></navLabel>
+            <content src="xhtml/p-009.xhtml#id-a007"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>７月22日（水曜日）</text></navLabel>
+            <content src="xhtml/p-010.xhtml#id-a008"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>エピローグ　綾瀬沙季の日記</text></navLabel>
+            <content src="xhtml/p-011.xhtml#id-a009"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>電子書籍特典　書き下ろし短編『ピーラー』</text></navLabel>
+            <content src="xhtml/p-016.xhtml#id-a010"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>奥付</text></navLabel>
+            <content src="xhtml/p-colophon.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
