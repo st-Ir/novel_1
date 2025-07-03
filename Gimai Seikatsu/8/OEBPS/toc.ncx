@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="B0C22L6F82" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>義妹生活８ 【電子特典付き】</text>
+</docTitle>
+<navMap>
+<navPoint id="navPoint-1" playOrder="1">
+	<navLabel><text>Contents</text></navLabel>
+	<content src="Text/p-toc-002.xhtml" />
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+	<navLabel><text>プロローグ　浅村悠太</text></navLabel>
+	<content src="Text/p-002.xhtml#toc-001" />
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+	<navLabel><text>４月19日（月曜日）　浅村悠太</text></navLabel>
+	<content src="Text/p-003.xhtml#toc-002" />
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+	<navLabel><text>４月19日（月曜日）　綾瀬沙季</text></navLabel>
+	<content src="Text/p-004.xhtml#toc-003" />
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+	<navLabel><text>４月20日（火曜日）　浅村悠太</text></navLabel>
+	<content src="Text/p-005.xhtml#toc-004" />
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+	<navLabel><text>４月20日（火曜日）　綾瀬沙季</text></navLabel>
+	<content src="Text/p-006.xhtml#toc-005" />
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+	<navLabel><text>４月21日（水曜日）　浅村悠太</text></navLabel>
+	<content src="Text/p-007.xhtml#toc-006" />
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+	<navLabel><text>４月21日（水曜日）　綾瀬沙季</text></navLabel>
+	<content src="Text/p-008.xhtml#toc-007" />
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+	<navLabel><text>５月20日（木曜日）　浅村悠太</text></navLabel>
+	<content src="Text/p-009.xhtml#toc-008" />
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+	<navLabel><text>５月20日（木曜日）　綾瀬沙季</text></navLabel>
+	<content src="Text/p-010.xhtml#toc-009" />
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+	<navLabel><text>６月１日（火曜日）　浅村悠太</text></navLabel>
+	<content src="Text/p-011.xhtml#toc-010" />
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+	<navLabel><text>６月１日（火曜日）　綾瀬沙季</text></navLabel>
+	<content src="Text/p-012.xhtml#toc-011" />
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+	<navLabel><text>６月７日（月曜日）　浅村悠太</text></navLabel>
+	<content src="Text/p-013.xhtml#toc-012" />
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+	<navLabel><text>電子書籍特典　書き下ろし短編『言われてみれば？』</text></navLabel>
+	<content src="Text/p-016.xhtml#toc-013" />
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+	<navLabel><text>奥付</text></navLabel>
+	<content src="Text/p-colophon.xhtml" />
+</navPoint>
+
+</navMap>
+</ncx>
