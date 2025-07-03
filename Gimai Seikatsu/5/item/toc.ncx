@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head><meta name="dtb:uid" content="04681361A11386000000"/></head>
+    <docTitle><text>義妹生活５【電子特典付き】</text></docTitle>
+    <navMap>
+        <navPoint>
+            <navLabel><text>表紙</text></navLabel>
+            <content src="xhtml/p-cover.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Contents</text></navLabel>
+            <content src="xhtml/p-toc-002.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>プロローグ　浅村悠太</text></navLabel>
+            <content src="xhtml/p-002.xhtml#id-a001"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月19日（月曜日）　浅村悠太</text></navLabel>
+            <content src="xhtml/p-003.xhtml#id-a002"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月19日（月曜日）　綾瀬沙季</text></navLabel>
+            <content src="xhtml/p-004.xhtml#id-a003"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月20日（火曜日）　浅村悠太</text></navLabel>
+            <content src="xhtml/p-005.xhtml#id-a004"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月20日（火曜日）　綾瀬沙季</text></navLabel>
+            <content src="xhtml/p-006.xhtml#id-a005"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月21日（水曜日）　浅村悠太</text></navLabel>
+            <content src="xhtml/p-007.xhtml#id-a006"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月21日（水曜日）　綾瀬沙季</text></navLabel>
+            <content src="xhtml/p-008.xhtml#id-a007"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月29日（木曜日）　浅村悠太</text></navLabel>
+            <content src="xhtml/p-009.xhtml#id-a008"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月29日（木曜日）　綾瀬沙季</text></navLabel>
+            <content src="xhtml/p-010.xhtml#id-a009"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月30日（金曜日）　浅村悠太</text></navLabel>
+            <content src="xhtml/p-011.xhtml#id-a010"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月30日（金曜日）　綾瀬沙季</text></navLabel>
+            <content src="xhtml/p-012.xhtml#id-a011"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月31日（土曜日）　浅村悠太</text></navLabel>
+            <content src="xhtml/p-013.xhtml#id-a012"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>10月31日（土曜日）　綾瀬沙季</text></navLabel>
+            <content src="xhtml/p-014.xhtml#id-a013"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>電子書籍特典　書き下ろし短編『綾瀬さんのおでん生活』</text></navLabel>
+            <content src="xhtml/p-018.xhtml#id-a014"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>奥付</text></navLabel>
+            <content src="xhtml/p-colophon.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
